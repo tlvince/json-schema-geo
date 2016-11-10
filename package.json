@@ -1,6 +1,6 @@
 {
   "name": "json-schema-geo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Geo JSON schema file",
   "main": "schema.json",
   "scripts": {
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/tlvince/json-schema-geo#readme",
   "dependencies": {},
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "files": [
     "schema.json"
   ],
