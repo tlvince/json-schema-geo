@@ -1,0 +1,30 @@
+{
+  "name": "json-schema-geo",
+  "version": "1.0.0",
+  "description": "Geo JSON schema file",
+  "main": "schema.json",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlvince/json-schema-geo.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "geo"
+  ],
+  "author": "Tom Vincent <git@tlvince.com> (https://tlvince.com)",
+  "bugs": {
+    "url": "https://github.com/tlvince/json-schema-geo/issues"
+  },
+  "homepage": "https://github.com/tlvince/json-schema-geo#readme",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "files": [
+    "schema.json"
+  ],
+  "license": "MIT"
+}
